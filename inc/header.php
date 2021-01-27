@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <title>ISG Harran Periyodik Mail Sistemi</title>
+  <title>Periyodik Mail Sistemi</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!--Tarayıcı uyumluluğu için-->
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css"><!--Bootstrap için gerekli dosya yollarını gösteriyoruz-->
@@ -19,7 +19,7 @@
     }
   </script><!--Arkaplanda başka sayfadaki php kodları ile iletişim kurup çıkış işlemini yapacak ve sonucu döndürecek Jquery kodumuz-->
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top"><!--Bootstrap Navigasyon menümüzün başlangıcı-->
-    <a class="navbar-brand" href="#">ISG HARRAN</a>
+    <a class="navbar-brand" href="#">Periyodik Posta</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -46,6 +46,6 @@
   </nav>
 
   <div class="jumbotron text-center" style="margin-bottom:0; margin-top:55px; padding:1rem"><!--Navbarın altındaki site bilgileri bölümü-->
-    <h2>ISG Harran</h2>
+    <h2>Periyodik Posta</h2>
     <h4>Periyodik Mail Sistemi</h4>
   </div>
