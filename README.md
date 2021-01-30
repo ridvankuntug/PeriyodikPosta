@@ -1,4 +1,14 @@
 # PeriyodikPosta
-Haftalık, aylık ya da yıllık eposta ile hatırlatma sistemi. Weekly, monthly or annual email reminder system.
+Farklı görev gruplarına belirlenen periyotlarla gününde ve belirlenen süre kadar önce hatırlatma maili gönderir. periyotlar ve önceden  
+hatırlatma süresi seçilebilir.
 
-deneme1
+(Çalışması için mail.php sayfasına günlük zamanlayıcı ayarlanmalı)
+
+Platform: Web
+Dil: PHP, Js, HTML, CSS, Sql
+Kütüphaneler:
+jQuery
+Bootstrap
+PDO
+
+Veri tabanı: MySql
